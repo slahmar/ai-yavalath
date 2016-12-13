@@ -1,0 +1,12 @@
+# Salomé Lahmar 16201438
+
+COLUMNS = {}
+COLUMNS['A'] = 5
+COLUMNS['B'] = 6
+COLUMNS['C'] = 7
+COLUMNS['D'] = 8
+COLUMNS['E'] = 9
+COLUMNS['F'] = 8
+COLUMNS['G'] = 7
+COLUMNS['H'] = 6
+COLUMNS['I'] = 5
